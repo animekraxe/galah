@@ -159,6 +159,12 @@ header ul a strong {
   color:#222;
 }
 
+header h1 {
+  width: 420; height: 420;
+  background-image: url(http://i.imgur.com/uAvX4U0.png);
+  margin: 0 0 0 -2000px;
+}
+
 section {
   width:500px;
   float:right;
